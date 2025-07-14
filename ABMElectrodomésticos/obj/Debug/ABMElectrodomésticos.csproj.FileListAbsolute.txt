@@ -1,0 +1,10 @@
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\bin\Debug\ABMElectrodomésticos.exe.config
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\bin\Debug\ABMElectrodomésticos.exe
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\bin\Debug\ABMElectrodomésticos.pdb
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.csproj.AssemblyReference.cache
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.FrmElectrodomesticos.resources
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.Properties.Resources.resources
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.csproj.GenerateResource.cache
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.csproj.CoreCompileInputs.cache
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.exe
+C:\POO\ABMElectrodomésticos\ABMElectrodomésticos\obj\Debug\ABMElectrodomésticos.pdb
